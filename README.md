@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyledeguzmanx
 - 👀 I’m interested in app and web development.
-- 🌱 I’m currently learning JavaScript, Bootstap, jQuery, and React. Pretty much everything here: https://roadmap.sh/frontend
+- 🌱 I’m currently learning JavaScript, Bootstap, jQuery, Node.js and React. Pretty much everything here: https://roadmap.sh/frontend
 - 💞️ I’m looking to collaborate on anything that catches my eye.
 - 📫 How to reach me ... Email 
 
