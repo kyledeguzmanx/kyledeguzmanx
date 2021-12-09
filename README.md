@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyledeguzmanx
 - 👀 I’m interested in mobile app and web development.
-- 🌱 I’m currently learning Bootstap, jQuery, and React. Pretty much everything here: https://roadmap.sh/frontend
+- 🌱 I’m currently learning React and Tailwind.
 - 💞️ I’m looking to collaborate on any Front-End Web Dev projects or even UX design projects with Figma.  
 - 📫 How to reach me ... Email Me
 
