@@ -30,15 +30,11 @@
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
       <br>React JS
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
