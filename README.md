@@ -1,7 +1,7 @@
 <h1>👋 Hello there, I'm Kyle DeGuzman</h1>
-- 👀 I’m interested in mobile app and web development. <br>
+- 👀 I’m interested in Web Development, Web3, and blockchain tech. <br>
 - 🌱 I’m currently learning <a href="https://reactjs.org/">React</a>   <br>
-- 💞️ I’m looking to collaborate on any Front-End Web Dev projects or even UX design projects with Figma.   <br>
+- 💞️ I’m looking to collaborate on any Front-End Web Dev projects or even UX design projects.  <br>
 - 📫 How to reach me ... Email Me   <br>
 <h2> Favorite Tech </h2>
 <table align="center">
