@@ -34,10 +34,7 @@
     
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/community/logo-2021/community.png" width="48" height="48" alt="Gulp" />
-      <br>Gulp
-    </td>
+    
         <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Javascript" />
       <br>Javascript
