@@ -8,6 +8,10 @@
 <h2> Skills </h2>
 <table align="center">
   <tr>
+    <td align="center" width="96">
+        <img src="https://miro.medium.com/max/400/1*BBYoIy6qy2jmBtOMJx7Ndw.png" width="48" height="48" alt="AJAX" />
+      <br>AJAX
+    </td>
      <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
