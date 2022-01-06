@@ -26,7 +26,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-  </tr>
+ 
   
     <tr>
     <td align="center" width="96">
