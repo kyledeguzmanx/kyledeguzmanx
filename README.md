@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning <a href="https://reactjs.org/">React</a>   <br>
 - 💞️ I’m looking to collaborate on any Front-End Web Dev projects or even UX design projects.  <br>
 - 🔎 Find my content on <a href="https://medium.com/@kyledeguzmanx"> Medium </a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
-- 📫 Reach me at kyle.deguzmanbusiness@gmail.com
+- 📫 Reach me at <a href="mailto:kyle.deguzmanbusiness@gmail.com">kyle.deguzmanbusiness@gmail.com</a>
 <h2> Skills </h2>
 <table align="center">
   <tr>
