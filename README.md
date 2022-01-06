@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development, Web3, and blockchain tech. <br>
 - 🌱 I’m currently learning <a href="https://reactjs.org/">React</a>   <br>
 - 💞️ I’m looking to collaborate on any Front-End Web Dev projects or even UX design projects.  <br>
+- 🔎 Find my content on <a href="https://medium.com/@kyledeguzmanx" Medium </a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 📫 How to reach me ... Email Me   <br>
 <h2> Favorite Tech </h2>
 <table align="center">
