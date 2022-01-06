@@ -5,12 +5,12 @@
 - 🔎 Find my content on <a href="https://medium.com/@kyledeguzmanx" Medium </a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 🔎 Find my content on <a href="https://medium.com/@kyledeguzmanx"> Medium </a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 📫 How to reach me ... Email Me   <br>
-<h2> Favorite Tech </h2>
+<h2> Skills </h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C"/>
+      <br>C
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -27,9 +27,9 @@
   </tr>
   <tr>
         <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Javascript" />
       </a>
-      <br>C
+      <br>Javascript
     </td>
     <td align="center" width="96">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
