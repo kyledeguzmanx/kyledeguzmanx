@@ -8,9 +8,17 @@
 <h2> Skills </h2>
 <table align="center">
   <tr>
+     <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C"/>
       <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="48" height="48" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
