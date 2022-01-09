@@ -49,6 +49,10 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
+        <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" width="48" height="48" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
         <img src="https://logodix.com/logo/941103.png" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
@@ -56,12 +60,12 @@
         <img src="https://logodix.com/logo/1593293.png" width="48" height="48" alt="JSON" />
       <br>JSON
     </td>
+  </tr>
+  <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
         <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop">
       <br>PhotoShop
