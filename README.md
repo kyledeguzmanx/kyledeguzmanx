@@ -41,11 +41,11 @@
       <br>Gulp
     </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML5" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
         <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Javascript" />
+        <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" />
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -57,13 +57,13 @@
       <br>jQuery
     </td>
     <td align="center" width="96">
-        <img src="https://logodix.com/logo/1593293.png" width="48" height="48" alt="JSON" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/json-file-1-504451.png" width="48" height="48" alt="JSON" />
       <br>JSON
     </td>
   </tr>
   <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="48" height="48" alt="Node.js" />
+        <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
