@@ -28,14 +28,16 @@
       <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="48" height="48" alt="Git" />
+      <br>ExpressJS
     </td>
-    
-    
   </tr>
   
   <tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/community/logo-2021/community.png" width="48" height="48" alt="Gulp" />
       <br>Gulp
@@ -56,12 +58,12 @@
         <img src="https://logodix.com/logo/941103.png" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr> <!--ROW----------------------------------------------------------------------------->
+     <td align="center" width="96">
         <img src="https://cdn.iconscout.com/icon/free/png-256/json-file-1-504451.png" width="48" height="48" alt="JSON" />
       <br>JSON
     </td>
-  </tr>
-  <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
         <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
@@ -69,10 +71,6 @@
     <td align="center" width="96">
       <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop">
       <br>PhotoShop
-    </td>
-    <td align="center" width="96">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      <br>React JS
     </td>
         <td align="center" width="96">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" />
