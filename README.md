@@ -28,12 +28,16 @@
       <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="48" height="48" alt="Git" />
-      <br>ExpressJS
+        <img src="https://fileproinfo.com/images/ejs_file_extension.png" width="48" height="48" alt="EJS" />
+      <br>EJS
     </td>
   </tr>
   
   <tr>
+    <td align="center" width="96">
+        <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="48" height="48" alt="Git" />
+      <br>ExpressJS
+    </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -54,12 +58,12 @@
         <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" width="48" height="48" alt="Jira" />
       <br>Jira
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr> <!--ROW----------------------------------------------------------------------------->
+      <td align="center" width="96">
         <img src="https://logodix.com/logo/941103.png" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
-  </tr>
-  <tr> <!--ROW----------------------------------------------------------------------------->
      <td align="center" width="96">
         <img src="https://cdn.iconscout.com/icon/free/png-256/json-file-1-504451.png" width="48" height="48" alt="JSON" />
       <br>JSON
