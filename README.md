@@ -11,6 +11,10 @@
         <img src="https://miro.medium.com/max/400/1*BBYoIy6qy2jmBtOMJx7Ndw.png" width="48" height="48" alt="AJAX" />
       <br>AJAX
     </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" width="48" height="48" alt="AJAX" />
+      <br>AXIOS
+    </td>
      <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
@@ -26,10 +30,6 @@
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="48" height="48" alt="CSS3" />
       <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://fileproinfo.com/images/ejs_file_extension.png" width="48" height="48" alt="EJS" />
-      <br>EJS
     </td>
   </tr>
   
