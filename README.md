@@ -76,6 +76,10 @@
       <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop">
       <br>PhotoShop
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React">
+      <br>React
+    </td>
         <td align="center" width="96">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" />
       <br>SASS
