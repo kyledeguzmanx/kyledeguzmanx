@@ -39,6 +39,10 @@
       <br>ExpressJS
     </td>
     <td align="center" width="96">
+        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -54,12 +58,12 @@
         <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" />
       <br>Javascript
     </td>
+  </tr>
+  <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
         <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" width="48" height="48" alt="Jira" />
       <br>Jira
     </td>
-  </tr>
-  <tr> <!--ROW----------------------------------------------------------------------------->
       <td align="center" width="96">
         <img src="https://logodix.com/logo/941103.png" width="48" height="48" alt="jQuery" />
       <br>jQuery
@@ -80,7 +84,9 @@
       <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React">
       <br>React
     </td>
-        <td align="center" width="96">
+  </tr>
+  <tr>
+    <td align="center" width="96">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" />
       <br>SASS
     </td>
