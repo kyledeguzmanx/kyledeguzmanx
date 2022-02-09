@@ -55,12 +55,16 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-        <td align="center" width="96">
-        <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" />
-      <br>Javascript
+    <td align="center" width="96">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
   </tr>
   <tr> <!--ROW----------------------------------------------------------------------------->
+    <td align="center" width="96">
+        <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" />
+      <br>Javascript
+    </td>
     <td align="center" width="96">
         <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" width="48" height="48" alt="Jira" />
       <br>Jira
@@ -81,12 +85,12 @@
       <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop">
       <br>PhotoShop
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React">
       <br>React
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" />
       <br>SASS
