@@ -95,6 +95,10 @@
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" />
       <br>SASS
     </td>
+        <td align="center" width="96">
+        <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" width="48" height="48" alt="Scrum" />
+      <br>Scrum
+    </td>
   </tr>
 <!---
 kyledeguzmanx/kyledeguzmanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
