@@ -82,11 +82,15 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop">
-      <br>PhotoShop
+        <img src="https://i.pinimg.com/originals/45/03/98/450398f4ff10d0253602b6a6d99419ed.png" width="48" height="48" alt="Node.js" title="Object-Oriented Programming"/>
+      <br>OOP
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop">
+      <br>PhotoShop
+    </td>
     <td align="center" width="96">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React">
       <br>React
