@@ -9,76 +9,76 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://miro.medium.com/max/400/1*BBYoIy6qy2jmBtOMJx7Ndw.png" width="48" height="48" alt="AJAX" />
+        <img src="https://miro.medium.com/max/400/1*BBYoIy6qy2jmBtOMJx7Ndw.png" width="48" height="48" alt="AJAX" title="AJAX"/>
       <br>AJAX
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" width="48" height="48" alt="AJAX" />
+        <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" width="48" height="48" alt="AJAX" title="AXIOS"/>
       <br>AXIOS
     </td>
      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" title="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C" title="C Language"/>
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="48" height="48" alt="C++" />
+        <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="48" height="48" alt="C++" title="C++ Language"/>
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="48" height="48" alt="CSS3" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="48" height="48" alt="CSS3" title="Cascading Stylesheets"/>
       <br>CSS3
     </td>
   </tr>
   
   <tr>
     <td align="center" width="96">
-        <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="48" height="48" alt="Git" />
+        <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="48" height="48" alt="Git" title="Express" />
       <br>ExpressJS
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="48" height="48" alt="Figma" />
+        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="48" height="48" alt="Figma" title="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" title="Git Version Control System" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/community/logo-2021/community.png" width="48" height="48" alt="Gulp" />
+        <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/community/logo-2021/community.png" width="48" height="48" alt="Gulp" title="GulpJs"/>
       <br>Gulp
     </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML5" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML5" title="Semantic HTML"/>
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48" height="48" alt="Java" />
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48" height="48" alt="Java" title="Java Language" />
       <br>Java
     </td>
   </tr>
   <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
-        <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" />
+        <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" title="Javascript(ES6)"/>
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" width="48" height="48" alt="Jira" />
+        <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" width="48" height="48" alt="Jira" title="Jira Project Management"/>
       <br>Jira
     </td>
       <td align="center" width="96">
-        <img src="https://logodix.com/logo/941103.png" width="48" height="48" alt="jQuery" />
+        <img src="https://logodix.com/logo/941103.png" width="48" height="48" alt="jQuery" title="jQuery" />
       <br>jQuery
     </td>
      <td align="center" width="96">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/json-file-1-504451.png" width="48" height="48" alt="JSON" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/json-file-1-504451.png" width="48" height="48" alt="JSON" title="JSON" />
       <br>JSON
     </td>
     <td align="center" width="96">
-        <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="48" height="48" alt="Node.js" />
+        <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="48" height="48" alt="Node.js" title="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -88,19 +88,19 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop">
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop" title="Adobe Photoshop">
       <br>PhotoShop
     </td>
     <td align="center" width="96">
-      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React">
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React" title="React Framework">
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" />
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" title="SASS PreProcessor"/>
       <br>SASS
     </td>
         <td align="center" width="96">
-        <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" width="48" height="48" alt="Scrum" />
+        <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" width="48" height="48" alt="Scrum" title="Scrum/Agile Methodologies" />
       <br>Scrum
     </td>
   </tr>
