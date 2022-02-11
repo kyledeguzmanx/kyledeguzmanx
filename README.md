@@ -29,6 +29,10 @@
       <br>C++
     </td>
     <td align="center" width="96">
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" width="48" height="48" alt="CSS3" title="CheerioJs"/>
+      <br>CheerioJS
+    </td>
+    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="48" height="48" alt="CSS3" title="Cascading Stylesheets"/>
       <br>CSS3
     </td>
@@ -59,12 +63,12 @@
         <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48" height="48" alt="Java" title="Java Language" />
       <br>Java
     </td>
-  </tr>
-  <tr> <!--ROW----------------------------------------------------------------------------->
-    <td align="center" width="96">
+        <td align="center" width="96">
         <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" title="Javascript(ES6)"/>
       <br>Javascript
     </td>
+  </tr>
+  <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
         <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" width="48" height="48" alt="Jira" title="Jira Project Management"/>
       <br>Jira
@@ -85,8 +89,6 @@
         <img src="https://i.pinimg.com/originals/45/03/98/450398f4ff10d0253602b6a6d99419ed.png" width="48" height="48" alt="Node.js" title="Object-Oriented Programming"/>
       <br>OOP
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop" title="Adobe Photoshop">
       <br>PhotoShop
@@ -95,6 +97,8 @@
       <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React" title="React Framework">
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" title="SASS PreProcessor"/>
       <br>SASS
