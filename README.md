@@ -108,6 +108,30 @@
       <br>Scrum
     </td>
   </tr>
+  </table>
+  
+  <h2> Experience with </h2>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48" alt="Phaser" title="Phaser"/>
+        <br>C#
+     </td>
+      <td align="center" width="96">
+        <img src="https://phaser.io/images/logo/logo-download-vector.png" width="48" height="48" alt="Phaser" title="Phaser"/>
+        <br>Phaser
+     </td>
+      <td align="center" width="96">
+        <img src="https://versioneye.files.wordpress.com/2013/05/foto1_python-logo-glassy.png" width="48" height="48" alt="Python" title="Python"/>
+        <br>Python
+     </td>
+      <td align="center" width="96">
+        <img src="https://gamingshogun.com/wp-content/uploads/2012/11/unityLogo.png" width="48" height="48" alt="Unity" title="Unity"/>
+        <br>Unity
+     </td>
+    </tr>
+  
+  </table>
 <!---
 kyledeguzmanx/kyledeguzmanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
