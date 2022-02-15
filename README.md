@@ -1,6 +1,6 @@
 <h1>👋 Hello there, I'm Kyle DeGuzman</h1>
 - 👀 I’m interested in Front-End Development and Software Engineering. <br>
-- 🌱 I’m currently learning Firebase, MaterialUI, Jest, NextJS, and Flutter <br>
+- 🌱 I’m currently learning Firebase, MaterialUI, NextJS, and Flutter <br>
 - 💞️ I’m looking to collaborate on any Android Development, UX design, or React Projects  <br>
 - 🔎 Find my content on  Medium <a href="https://medium.com/@kyledeguzmanx">@kyledeguzmanx</a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 🧑‍🎨Find some of my design projects on Figma <a href="https://www.figma.com/@kyledeguzmanx">@kyledeguzmanx</a> <br>
@@ -70,6 +70,10 @@
   </tr>
   <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
+        <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" width="48" height="48" alt="Jira" title="Jest Unit Testing"/>
+      <br>Jest
+    </td>
+    <td align="center" width="96">
         <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" width="48" height="48" alt="Jira" title="Jira Project Management"/>
       <br>Jira
     </td>
@@ -93,12 +97,12 @@
       <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop" title="Adobe Photoshop">
       <br>PhotoShop
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React" title="React Framework">
       <br>React
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" title="SASS PreProcessor"/>
       <br>SASS
