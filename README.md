@@ -134,6 +134,10 @@
         <br>Python
      </td>
       <td align="center" width="96">
+        <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/03/tiled-logo-256.png" width="48" height="48" alt="Tiled" title="Tiled"/>
+        <br>Tiled
+     </td>
+      <td align="center" width="96">
         <img src="https://gamingshogun.com/wp-content/uploads/2012/11/unityLogo.png" width="48" height="48" alt="Unity" title="Unity"/>
         <br>Unity
      </td>
