@@ -1,6 +1,6 @@
 <h1>👋 Hello there, I'm Kyle DeGuzman</h1>
 - 👀 I’m interested in Front-End Development and Software Engineering. <br>
-- 🌱 I’m currently learning Firebase, Flutter, and Redux <br>
+- 🌱 I’m currently learning Firebase, Flutter, MongoDB, and Django <br>
 - 💞️ I’m looking to collaborate on any Android Development, UX design, or React Projects  <br>
 - 🔎 Find my content on  Medium <a href="https://medium.com/@kyledeguzmanx">@kyledeguzmanx</a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 🧑‍🎨Find some of my design projects on Figma <a href="https://www.figma.com/@kyledeguzmanx">@kyledeguzmanx</a> <br>
