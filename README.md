@@ -125,6 +125,11 @@
         <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="48" height="48" alt="GitLab" title="GitLab"/>
         <br>GitLab
      </td>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" width="48" height="48" alt="MongoDB" title="MongoDB"/>
+        <br>Mongoose
+     </td>
       <td align="center" width="96">
         <img src="https://phaser.io/images/logo/logo-download-vector.png" width="48" height="48" alt="Phaser" title="Phaser"/>
         <br>Phaser
