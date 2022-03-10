@@ -40,6 +40,10 @@
   
   <tr>
     <td align="center" width="96">
+        <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" width="48" height="48" alt="CSS3" title="Confluence"/>
+      <br>Confluence
+    </td>
+    <td align="center" width="96">
         <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="48" height="48" alt="Git" title="Express" />
       <br>ExpressJS
     </td>
@@ -62,13 +66,13 @@
     <td align="center" width="96">
         <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48" height="48" alt="Java" title="Java Language" />
       <br>Java
-    </td>
-        <td align="center" width="96">
+    </td> 
+  </tr>
+  <tr> <!--ROW----------------------------------------------------------------------------->
+    <td align="center" width="96">
         <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" title="Javascript(ES6)"/>
       <br>Javascript
     </td>
-  </tr>
-  <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
         <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" width="48" height="48" alt="Jira" title="Jest Unit Testing"/>
       <br>Jest
@@ -93,12 +97,12 @@
         <img src="https://i.pinimg.com/originals/45/03/98/450398f4ff10d0253602b6a6d99419ed.png" width="48" height="48" alt="Node.js" title="Object-Oriented Programming"/>
       <br>OOP
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop" title="Adobe Photoshop">
       <br>PhotoShop
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React" title="React Framework">
       <br>React
