@@ -1,7 +1,7 @@
 <h1>👋 Hello there, I'm Kyle DeGuzman</h1>
 - 👀 I’m interested in Front-End Development and Software Engineering. <br>
-- 🌱 I’m currently learning Firebase, MongoDB, and Redux <br>
-- 💞️ I’m looking to collaborate on any Android Development, UX design, or React Projects  <br>
+- 🌱 I’m currently learning Firebase and MongoDB <br>
+- 💞️ I’m looking to collaborate on any UX design projects  <br>
 - 🔎 Find my content on  Medium <a href="https://medium.com/@kyledeguzmanx">@kyledeguzmanx</a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 🧑‍🎨Find some of my design projects on Figma <a href="https://www.figma.com/@kyledeguzmanx">@kyledeguzmanx</a> <br>
 - 📫 Reach me at <a href="mailto:kyle.deguzmanbusiness@gmail.com">kyle.deguzmanbusiness@gmail.com</a>
@@ -142,16 +142,21 @@
         <img src="https://versioneye.files.wordpress.com/2013/05/foto1_python-logo-glassy.png" width="48" height="48" alt="Python" title="Python"/>
         <br>Python
      </td>
+     <td align="center" width="96">
+        <img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width="48" height="48" alt="Redux" title="Redux"/>
+        <br>Redux
+     </td>
       <td align="center" width="96">
         <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/03/tiled-logo-256.png" width="48" height="48" alt="Tiled" title="Tiled"/>
         <br>Tiled
      </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://gamingshogun.com/wp-content/uploads/2012/11/unityLogo.png" width="48" height="48" alt="Unity" title="Unity"/>
         <br>Unity
      </td>
     </tr>
-  
   </table>
 <!---
 kyledeguzmanx/kyledeguzmanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
