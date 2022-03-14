@@ -1,5 +1,5 @@
 <h1>👋 Hello there, I'm Kyle DeGuzman</h1>
-- 👀 I’m interested in Front-End Development and Software Engineering. <br>
+- 👀 I’m interested in Full-Stack Development and Software Engineering. <br>
 - 🌱 I’m currently learning Firebase and MongoDB <br>
 - 💞️ I’m looking to collaborate on any UX design projects  <br>
 - 🔎 Find my content on  Medium <a href="https://medium.com/@kyledeguzmanx">@kyledeguzmanx</a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
