@@ -53,6 +53,10 @@
       <br>Figma
     </td>
     <td align="center" width="96">
+        <img src="https://brandpalettes.com/wp-content/uploads/2021/06/firebase-color-codes.svg" width="48" height="48" alt="Firebase" title="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" title="Git Version Control System" />
       <br>Git
     </td>
@@ -64,12 +68,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML5" title="Semantic HTML"/>
       <br>HTML5
     </td>
+  </tr>
+  <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
         <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48" height="48" alt="Java" title="Java Language" />
       <br>Java
     </td> 
-  </tr>
-  <tr> <!--ROW----------------------------------------------------------------------------->
     <td align="center" width="96">
         <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" title="Javascript(ES6)"/>
       <br>Javascript
@@ -94,12 +98,12 @@
         <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="48" height="48" alt="Node.js" title="Node.js" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+     <td align="center" width="96">
         <img src="https://i.pinimg.com/originals/45/03/98/450398f4ff10d0253602b6a6d99419ed.png" width="48" height="48" alt="Node.js" title="Object-Oriented Programming"/>
       <br>OOP
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop" title="Adobe Photoshop">
       <br>PhotoShop
