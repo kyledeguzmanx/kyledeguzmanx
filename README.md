@@ -1,6 +1,6 @@
 <h1>👋 Hello there, I'm Kyle DeGuzman</h1>
 - 👀 I’m interested in Full-Stack Development and Software Engineering. <br>
-- 🌱 I’m currently learning Firebase, MongoDB, Laravel, MYSQL, and Docker <br>
+- 🌱 I’m currently learning Firebase <br>
 - 💞️ I’m looking to collaborate on any UX design projects  <br>
 - 🔎 Find my content on  Medium <a href="https://medium.com/@kyledeguzmanx">@kyledeguzmanx</a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 🧑‍🎨Find some of my design projects on Figma <a href="https://www.figma.com/@kyledeguzmanx">@kyledeguzmanx</a> <br>
