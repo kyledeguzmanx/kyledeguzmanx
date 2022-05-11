@@ -134,6 +134,10 @@
         <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="48" height="48" alt="GitLab" title="GitLab"/>
         <br>GitLab
      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="48" height="48" alt="Laravel" title="Laravel"/>
+        <br>Laravel
+     </td>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" width="48" height="48" alt="MongoDB" title="MongoDB"/>
@@ -151,12 +155,12 @@
         <img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width="48" height="48" alt="Redux" title="Redux"/>
         <br>Redux
      </td>
-      <td align="center" width="96">
+    </tr>
+    <tr>
+    <td align="center" width="96">
         <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/03/tiled-logo-256.png" width="48" height="48" alt="Tiled" title="Tiled"/>
         <br>Tiled
      </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://gamingshogun.com/wp-content/uploads/2012/11/unityLogo.png" width="48" height="48" alt="Unity" title="Unity"/>
         <br>Unity
