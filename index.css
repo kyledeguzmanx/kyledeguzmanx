@@ -33,11 +33,17 @@ body nav .nav-left p {
   font-family: 'Iceberg', cursive;
   text-transform: uppercase;
   font-size: 35px;
+  -ms-user-select: none;
+      user-select: none;
+  ms-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
 }
 
 body nav .nav-right {
   margin-right: 5%;
-  font-size: 35px;
+  font-size: 25px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -48,11 +54,15 @@ body nav .nav-right {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  width: 200px;
+  width: 170px;
 }
 
 body nav .nav-right a {
   text-decoration: none;
   color: white;
+}
+
+body nav .nav-right a:hover {
+  opacity: 50%;
 }
 /*# sourceMappingURL=index.css.map */
