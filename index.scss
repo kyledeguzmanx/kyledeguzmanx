@@ -45,4 +45,40 @@ body{
             }
         }
     }
+
+    .gallery-row {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20vh 10vw;
+      }
+      
+      
+      .gallery-column {
+        flex: 25%;
+        max-width: 33.3%;
+        padding: 0 4px;
+
+        img {
+            margin-top: 8px;
+            vertical-align: middle;
+            width: 100%;
+            -webkit-user-drag: none;
+            -khtml-user-drag: none;
+            -moz-user-drag: none;
+            -o-user-drag: none;
+            user-drag: none;
+          }
+      }
+      @media screen and (max-width: 800px) {
+        .gallery-column {
+          flex: 50%;
+          max-width: 50%;
+        }
+      }
+      @media screen and (max-width: 600px) {
+        .gallery-column {
+          flex: 100%;
+          max-width: 100%;
+        }
+      }
 }

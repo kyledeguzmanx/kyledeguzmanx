@@ -65,4 +65,50 @@ body nav .nav-right a {
 body nav .nav-right a:hover {
   opacity: 50%;
 }
+
+body .gallery-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding: 20vh 10vw;
+}
+
+body .gallery-column {
+  -webkit-box-flex: 25%;
+      -ms-flex: 25%;
+          flex: 25%;
+  max-width: 33.3%;
+  padding: 0 4px;
+}
+
+body .gallery-column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+}
+
+@media screen and (max-width: 800px) {
+  body .gallery-column {
+    -webkit-box-flex: 50%;
+        -ms-flex: 50%;
+            flex: 50%;
+    max-width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body .gallery-column {
+    -webkit-box-flex: 100%;
+        -ms-flex: 100%;
+            flex: 100%;
+    max-width: 100%;
+  }
+}
 /*# sourceMappingURL=index.css.map */
