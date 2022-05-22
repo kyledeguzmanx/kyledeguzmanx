@@ -66,6 +66,19 @@ body nav .nav-right a:hover {
   opacity: 50%;
 }
 
+body .video-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
 body .gallery-row {
   display: -webkit-box;
   display: -ms-flexbox;
