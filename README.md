@@ -5,7 +5,7 @@
 - 🔎 Find my content on  Medium <a href="https://medium.com/@kyledeguzmanx">@kyledeguzmanx</a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 🧑‍🎨Find some of my design projects on Figma <a href="https://www.figma.com/@kyledeguzmanx">@kyledeguzmanx</a> <br>
 - 📫 Reach me at <a href="mailto:kyle.deguzmanbusiness@gmail.com">kyle.deguzmanbusiness@gmail.com</a> <br>
-- 👨🏽‍🎓 Front-End Engineer at Amazon starting in June 2022
+- 👨🏽‍🎓 Front-End Engineer at Amazon starting in July 2022
 <h2> Skills </h2>
 <table align="center">
   <tr>
