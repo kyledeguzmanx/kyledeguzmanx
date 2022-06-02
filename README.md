@@ -167,6 +167,24 @@
      </td>
     </tr>
   </table>
+  
+  <h2> Find Me </h2>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+          <a href="https://www.figma.com/@kyledeguzmanx"><img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" width="48" height="48" alt="Figma" title="Figma"/></a>
+          <br>Figma
+       </td>
+        <td align="center" width="96">
+          <a href="https://www.linkedin.com/in/kyledeguzmanx/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="48" height="48" alt="LinkedIn" title="LinkedIn"/></a>
+          <br>LinkedIn
+       </td>
+      <td align="center" width="96">
+          <a href="https://medium.com/@kyledeguzmanx"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="48" height="48" alt="Medium" title="Medium"/></a>
+          <br>Medium
+       </td>
+    </tr>
+  </table>
 <!---
 kyledeguzmanx/kyledeguzmanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
