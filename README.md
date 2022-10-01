@@ -1,18 +1,14 @@
 <h1>👋 Hello there, I'm Kyle DeGuzman</h1>
-- 👀 I’m interested in Full-Stack Development and Software Engineering. <br>
-- 🌱 I’m currently learning Cypress, Enzyme, and maybe Tailwing CSS <br>
-- 💞️ I’m looking to collaborate on any UX design projects  <br>
+- 👀 I’m a Front-End Engineer at AWS. <br>
+- 🌱 I’m currently learning about component libraries, AWS services, and maybe Unreal Engine very soon<br>
+- 💞️ I’m looking to collaborate on any UX design project or blog posts.  <br>
 - 🔎 Find my content on  Medium <a href="https://medium.com/@kyledeguzmanx">@kyledeguzmanx</a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
 - 🧑‍🎨Find some of my design projects on Figma <a href="https://www.figma.com/@kyledeguzmanx">@kyledeguzmanx</a> <br>
-- 📫 Reach me at <a href="mailto:kyle.deguzmanbusiness@gmail.com">kyle.deguzmanbusiness@gmail.com</a> <br>
-- 👨🏽‍🎓 Front-End Engineer at Amazon starting in July 2022
+- 📫 Reach me on Twitter @kyledeguzmanx or LinkedIn <br>
+- 👨🏽‍🎓 CSUN 2022 Grad 
 <h2> Skills </h2>
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://miro.medium.com/max/400/1*BBYoIy6qy2jmBtOMJx7Ndw.png" width="48" height="48" alt="AJAX" title="AJAX"/>
-      <br>AJAX
-    </td>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" width="48" height="48" alt="AJAX" title="AXIOS"/>
       <br>AXIOS
@@ -37,13 +33,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="48" height="48" alt="CSS3" title="Cascading Stylesheets"/>
       <br>CSS3
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="96">
         <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" width="48" height="48" alt="CSS3" title="Confluence"/>
       <br>Confluence
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
         <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="48" height="48" alt="Git" title="Express" />
       <br>ExpressJS
@@ -63,6 +59,10 @@
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/community/logo-2021/community.png" width="48" height="48" alt="Gulp" title="GulpJs"/>
       <br>Gulp
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/HCII_logo.svg/1200px-HCII_logo.svg.png" width="48" height="48" alt="HTML5" title="Human Computer Interaction & UX"/>
+      <br>HCI & UX
     </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML5" title="Semantic HTML"/>
@@ -119,6 +119,14 @@
         <td align="center" width="96">
         <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" width="48" height="48" alt="Scrum" title="Scrum/Agile Methodologies" />
       <br>Scrum
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" width="48" height="48" alt="Scrum" title="Storybook" />
+      <br>Storybook
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="Scrum" title="Typescript" />
+      <br>Typescript
     </td>
   </tr>
   </table>
